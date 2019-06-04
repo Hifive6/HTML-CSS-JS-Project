@@ -1,0 +1,22 @@
+body {
+  background: black;
+  font-family: "Source Sans Pro", Helvetica, Verdana, sans-serif; }
+
+.top-nav {
+  width: 100%;
+  position: relative; }
+  .top-nav .bear {
+    position: absolute;
+    top: 8px;
+    left: 34px;
+    width: 48px;
+    height: 48px; }
+  .top-nav .links {
+    position: absolute;
+    top: 8px;
+    right: 34px; }
+    .top-nav .links .nav-links {
+      background-color: aliceblue;
+      padding: 1px;
+      border: 5px;
+      margin: 5px; }

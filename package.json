@@ -1,0 +1,22 @@
+{
+  "name": "html-css-js-project",
+  "version": "1.0.0",
+  "description": "HTML-CSS Project",
+  "main": "main.js",
+  "scripts": {
+    "sass": "node-sass -w scss / -o dist/css/ --recurive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hifive6/HTML-CSS-JS-Project.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Hifive6/HTML-CSS-JS-Project/issues"
+  },
+  "homepage": "https://github.com/Hifive6/HTML-CSS-JS-Project#readme",
+  "dependencies": {
+    "node-sass": "^4.12.0"
+  }
+}
