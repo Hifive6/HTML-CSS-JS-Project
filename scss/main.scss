@@ -18,8 +18,8 @@ body{
     position: absolute;
     top: 8px;
     left: 34px;
-    width:48px;
-    height:48px;
+    width: 52px;
+    height: 52px;
 };  
 
 .links{
@@ -31,7 +31,7 @@ body{
     color: aliceblue;
     padding: 1px;
     border: 5px;
-    margin: 5px;
+    margin: 10px;
 };      
 };
 };
@@ -42,6 +42,18 @@ a.nav-links:hover, a.nav-links:active{
     background-color: blue;
     border: 5em;
 };
+
+
+
+.video-popout{
+    position: relative;
+    border: 5px;
+    padding: 5px;
+    margin: 10%;
+    width: 75%;
+    height: 500px;
+    
+}
 
 
 
