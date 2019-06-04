@@ -1,8 +1,9 @@
 body {
-  background: black;
+  background: gray;
   font-family: "Source Sans Pro", Helvetica, Verdana, sans-serif; }
 
 .top-nav {
+  background-color: red;
   width: 100%;
   position: relative; }
   .top-nav .bear {
@@ -16,7 +17,13 @@ body {
     top: 8px;
     right: 34px; }
     .top-nav .links .nav-links {
-      background-color: aliceblue;
+      color: aliceblue;
       padding: 1px;
       border: 5px;
       margin: 5px; }
+
+a.nav-links:hover, a.nav-links:active {
+  font-size: 150%;
+  color: yellow;
+  background-color: blue;
+  border: 5em; }
